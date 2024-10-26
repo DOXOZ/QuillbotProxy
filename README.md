@@ -1,4 +1,4 @@
-```markdown
+
 # Quillbot Proxy Application
 
 This project is a Flask web application that acts as a proxy for the Quillbot paraphrasing service. It allows users to access the functionality of Quillbot, including text paraphrasing, through a simplified interface while managing cookies and session handling.
