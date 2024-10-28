@@ -56,6 +56,12 @@ The application utilizes a set of predefined cookies to manage sessions and main
 - The application may experience downtime if the Quillbot website changes its structure or requires additional authentication measures.
 - This project is intended for personal use and educational purposes.
 
+## Images
+![image](https://github.com/user-attachments/assets/6b71e70c-1df7-47cc-8722-71fb6251c3cb)
+![image](https://github.com/user-attachments/assets/d44194dc-e601-441d-9e21-1040bed8e37b)
+![image](https://github.com/user-attachments/assets/d0bbf8ca-96a6-451d-ab3a-96d2761d2f03)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
