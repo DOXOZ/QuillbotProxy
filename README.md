@@ -62,9 +62,6 @@ The application utilizes a set of predefined cookies to manage sessions and main
 ![image](https://github.com/user-attachments/assets/d0bbf8ca-96a6-451d-ab3a-96d2761d2f03)
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
